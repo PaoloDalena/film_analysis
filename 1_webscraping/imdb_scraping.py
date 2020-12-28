@@ -21,6 +21,9 @@ def scrape_film_info(imdb_url):
     except Exception:
         pass
 
+    if len(genre2.split()) > 2:
+        genre2 = genre1
+
     year = film.find("span", {"id": "titleYear"}).get_text().replace("(", "").replace(")", "")
 
     director = film.find("div", {"class": "credit_summary_item"})

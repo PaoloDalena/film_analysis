@@ -74,8 +74,7 @@ year :  2000
 country :  USA
 rating :  83
 genre1 :  drama
-genre2 :  15 december 2000 (usa)
-
+genre1 :  drama
 budget :  4
 boxoffice :  7
 
@@ -95,8 +94,7 @@ year :  1996
 country :  UK
 rating :  81
 genre1 :  drama
-genre2 :  3 october 1996 (italy)
-
+genre1 :  drama
 budget :  1
 boxoffice :  16
 
@@ -166,8 +164,7 @@ year :  2010
 country :  USA
 rating :  59
 genre1 :  comedy
-genre2 :  5 november 2010 (italy)
-
+genre1 :  comedy
 budget :  69
 boxoffice :  86
 
