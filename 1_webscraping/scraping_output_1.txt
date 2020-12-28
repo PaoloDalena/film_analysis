@@ -1,0 +1,203 @@
+TITLE ->  Will Hunting - Genio ribelle (1997) 
+director :  Gus Van Sant
+year :  1997
+country :  USA
+rating :  83
+genre1 :  drama
+genre2 :  romance
+budget :  10
+boxoffice :  225
+
+TITLE ->  Il grande Lebowski (1998) 
+director :  Joel Coen
+year :  1998
+country :  USA
+rating :  81
+genre1 :  comedy
+genre2 :  crime
+budget :  15
+boxoffice :  46
+
+TITLE ->  The Wolf of Wall Street (2013) 
+director :  Martin Scorsese
+year :  2013
+country :  USA
+rating :  82
+genre1 :  biography
+genre2 :  crime
+budget :  100
+boxoffice :  392
+
+TITLE ->  Limitless (2011) 
+director :  Neil Burger
+year :  2011
+country :  USA
+rating :  74
+genre1 :  sci-fi
+genre2 :  thriller
+budget :  27
+boxoffice :  161
+
+TITLE ->  BlacKkKlansman (2018) 
+director :  Spike Lee
+year :  2018
+country :  USA
+rating :  75
+genre1 :  biography
+genre2 :  comedy
+budget :  15
+boxoffice :  93
+
+TITLE ->  A Beautiful Mind (2001) 
+director :  Ron Howard
+year :  2001
+country :  USA
+rating :  82
+genre1 :  biography
+genre2 :  drama
+budget :  58
+boxoffice :  316
+
+TITLE ->  Il capitale umano (2013) 
+director :  Paolo Virzì
+year :  2013
+country :  Italy
+rating :  73
+genre1 :  crime
+genre2 :  drama
+budget :  6
+boxoffice :  9
+
+TITLE ->  Requiem for a Dream (2000) 
+director :  Darren Aronofsky
+year :  2000
+country :  USA
+rating :  83
+genre1 :  drama
+genre2 :  15 december 2000 (usa)
+
+budget :  4
+boxoffice :  7
+
+TITLE ->  Tre manifesti a Ebbing, Missouri (2017) 
+director :  Martin McDonagh
+year :  2017
+country :  UK
+rating :  82
+genre1 :  comedy
+genre2 :  crime
+budget :  15
+boxoffice :  160
+
+TITLE ->  Trainspotting (1996) 
+director :  Danny Boyle
+year :  1996
+country :  UK
+rating :  81
+genre1 :  drama
+genre2 :  3 october 1996 (italy)
+
+budget :  1
+boxoffice :  16
+
+TITLE ->  V per Vendetta (2005) 
+director :  James McTeigue
+year :  2005
+country :  USA
+rating :  82
+genre1 :  action
+genre2 :  drama
+budget :  54
+boxoffice :  132
+
+TITLE ->  Essere John Malkovich (1999) 
+director :  Spike Jonze
+year :  1999
+country :  USA
+rating :  77
+genre1 :  comedy
+genre2 :  drama
+budget :  13
+boxoffice :  23
+
+TITLE ->  Grand Budapest Hotel (2014) 
+director :  Wes Anderson
+year :  2014
+country :  Germany
+rating :  81
+genre1 :  adventure
+genre2 :  comedy
+budget :  25
+boxoffice :  172
+
+TITLE ->  Una parola può cambiare tutto - Yes Man (2008) 
+director :  Peyton Reed
+year :  2008
+country :  USA
+rating :  68
+genre1 :  comedy
+genre2 :  romance
+budget :  70
+boxoffice :  223
+
+TITLE ->  Now You See Me - I maghi del crimine (2013) 
+director :  Louis Leterrier
+year :  2013
+country :  USA
+rating :  73
+genre1 :  crime
+genre2 :  mystery
+budget :  75
+boxoffice :  351
+
+TITLE ->  Matrix (1999) 
+director :  Lana Wachowski
+year :  1999
+country :  USA
+rating :  87
+genre1 :  action
+genre2 :  sci-fi
+budget :  63
+boxoffice :  466
+
+TITLE ->  A cena con un cretino (2010) 
+director :  Jay Roach
+year :  2010
+country :  USA
+rating :  59
+genre1 :  comedy
+genre2 :  5 november 2010 (italy)
+
+budget :  69
+boxoffice :  86
+
+TITLE ->  Quasi amici - Intouchables (2011) 
+director :  Olivier Nakache
+year :  2011
+country :  France
+rating :  85
+genre1 :  biography
+genre2 :  comedy
+budget :  9
+boxoffice :  426
+
+TITLE ->  La vita è bella (1997) 
+director :  Roberto Benigni
+year :  1997
+country :  Italy
+rating :  86
+genre1 :  comedy
+genre2 :  drama
+budget :  20
+boxoffice :  230
+
+TITLE ->  Men in Black (1997) 
+director :  Barry Sonnenfeld
+year :  1997
+country :  USA
+rating :  73
+genre1 :  action
+genre2 :  adventure
+budget :  90
+boxoffice :  589
+
