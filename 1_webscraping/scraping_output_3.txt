@@ -1,0 +1,210 @@
+TITLE ->  Match Point (2005) 
+director :  Woody Allen
+year :  2005
+country :  UK
+rating :  76
+genre1 :  drama
+genre2 :  romance
+budget :  15
+boxoffice :  85
+
+TITLE ->  American Sniper (2014) 
+director :  Clint Eastwood
+year :  2014
+country :  USA
+rating :  73
+genre1 :  action
+genre2 :  biography
+budget :  58
+boxoffice :  547
+
+TITLE ->  La città incantata (2001) 
+director :  Hayao Miyazaki
+year :  2001
+country :  Japan
+rating :  86
+genre1 :  animation
+genre2 :  adventure
+budget :  19
+boxoffice :  355
+
+TITLE ->  Focus - Niente è come sembra (2015) 
+director :  Glenn Ficarra
+year :  2015
+country :  USA
+rating :  66
+genre1 :  comedy
+genre2 :  crime
+budget :  50
+boxoffice :  158
+
+TITLE ->  300 (2006) 
+director :  Zack Snyder
+year :  2006
+country :  USA
+rating :  76
+genre1 :  action
+genre2 :  drama
+budget :  65
+boxoffice :  456
+
+TITLE ->  Una notte da leoni (2009) 
+director :  Todd Phillips
+year :  2009
+country :  USA
+rating :  77
+genre1 :  comedy
+genre1 :  comedy
+budget :  35
+boxoffice :  469
+
+TITLE ->  Spider-Man (2002) 
+director :  Sam Raimi
+year :  2002
+country :  USA
+rating :  73
+genre1 :  action
+genre2 :  adventure
+budget :  139
+boxoffice :  825
+
+TITLE ->  Funny Games (2007) 
+director :  Michael Haneke
+year :  2007
+country :  USA
+rating :  66
+genre1 :  crime
+genre2 :  drama
+budget :  15
+boxoffice :  7
+
+TITLE ->  Lost in Translation - L'amore tradotto (2003) 
+director :  Sofia Coppola
+year :  2003
+country :  USA
+rating :  77
+genre1 :  comedy
+genre2 :  drama
+budget :  4
+boxoffice :  118
+
+TITLE ->  Benvenuti a Zombieland (2009) 
+director :  Ruben Fleischer
+year :  2009
+country :  USA
+rating :  76
+genre1 :  adventure
+genre2 :  comedy
+budget :  23
+boxoffice :  102
+
+TITLE ->  Avatar (2009) 
+director :  James Cameron
+year :  2009
+country :  USA
+rating :  78
+genre1 :  action
+genre2 :  adventure
+budget :  237
+boxoffice :  2790
+
+TITLE ->  Iron Man (2008) 
+director :  Jon Favreau
+year :  2008
+country :  USA
+rating :  79
+genre1 :  action
+genre2 :  adventure
+budget :  140
+boxoffice :  585
+
+TITLE ->  Scary Movie 3 - Una risata vi seppellirà (2003) 
+director :  David Zucker
+year :  2003
+country :  USA
+rating :  55
+genre1 :  comedy
+genre2 :  horror
+budget :  48
+boxoffice :  220
+
+TITLE ->  American Beauty (1999) 
+director :  Sam Mendes
+year :  1999
+country :  USA
+rating :  83
+genre1 :  drama
+genre1 :  drama
+budget :  15
+boxoffice :  356
+
+TITLE ->  C'era una volta... a Hollywood (2019) 
+director :  Quentin Tarantino
+year :  2019
+country :  USA
+rating :  76
+genre1 :  comedy
+genre2 :  drama
+budget :  90
+boxoffice :  374
+
+TITLE ->  Suicide Squad (2016) 
+director :  David Ayer
+year :  2016
+country :  USA
+rating :  60
+genre1 :  action
+genre2 :  adventure
+budget :  175
+boxoffice :  746
+
+TITLE ->  Eyes Wide Shut (1999) 
+director :  Stanley Kubrick
+year :  1999
+country :  UK
+rating :  74
+genre1 :  drama
+genre2 :  mystery
+budget :  65
+boxoffice :  162
+
+TITLE ->  1917 (2019) 
+director :  Sam Mendes
+year :  2019
+country :  USA
+rating :  83
+genre1 :  drama
+genre2 :  thriller
+budget :  95
+boxoffice :  385
+
+TITLE ->  Twilight (2008) 
+director :  Catherine Hardwicke
+year :  2008
+country :  USA
+rating :  52
+genre1 :  drama
+genre2 :  fantasy
+budget :  37
+boxoffice :  408
+
+TITLE ->  Sausage Party - Vita segreta di una salsiccia (2016) 
+director :  Greg Tiernan
+year :  2016
+country :  USA
+rating :  61
+genre1 :  animation
+genre2 :  adventure
+budget :  19
+boxoffice :  140
+
+TITLE ->  Birdman o (L'imprevedibile virtù dell'ignoranza) (2014) 
+director :  Alejandro G. Iñárritu
+year :  2014
+country :  USA
+rating :  77
+genre1 :  comedy
+genre2 :  drama
+budget :  18
+boxoffice :  103
+

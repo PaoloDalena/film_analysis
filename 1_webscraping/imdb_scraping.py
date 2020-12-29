@@ -85,11 +85,81 @@ films_1 = [
     "https://www.imdb.com/title/tt0119654/",  # meninblack
 ]
 
-# films from willhunting to meninblack
+# films from willhunting to meninblack:
 
 sys.stdout = open("scraping_output_1.txt", "w")
 
 for i in films_1:
+    scrape_film_info(i)
+
+sys.stdout.close()
+
+films_2 = [
+    "https://www.imdb.com/title/tt2911666/",  # johnwick
+    "https://www.imdb.com/title/tt1131729/",  # boatrock
+    "https://www.imdb.com/title/tt2096673/",  # insideout
+    "https://www.imdb.com/title/tt0478087/",  # 21
+    "https://www.imdb.com/title/tt0480249/",  # iamlegend
+    "https://www.imdb.com/title/tt1596363/",  # thebigshort
+    "https://www.imdb.com/title/tt0322802/",  # jackass
+    "https://www.imdb.com/title/tt1637725/",  # ted
+    "https://www.imdb.com/title/tt0330373/",  # harrypotter
+    "https://www.imdb.com/title/tt1645170/",  # thedictator
+    "https://www.imdb.com/title/tt0435705/",  # next
+    "https://www.imdb.com/title/tt0389860/",  # click
+    "https://www.imdb.com/title/tt0421715/",  # benjaminbutton
+    "https://www.imdb.com/title/tt0368891/",  # nationaltreasure
+    "https://www.imdb.com/title/tt0396171/",  # perfume
+    "https://www.imdb.com/title/tt7286456/",  # joker
+    "https://www.imdb.com/title/tt0454848/",  # insideman
+    "https://www.imdb.com/title/tt4682786/",  # collateralb
+    "https://www.imdb.com/title/tt0386588/",  # hitch
+    "https://www.imdb.com/title/tt0485947/",  # mrnobody
+    "https://www.imdb.com/title/tt1010048/",  # themill
+    "https://www.imdb.com/title/tt0359950/",  # waltermitty
+    "https://www.imdb.com/title/tt0119282/",  # hercules
+    "https://www.imdb.com/title/tt3890160/",  # baby driver
+    "https://www.imdb.com/title/tt0351283/"   # madagascar
+]
+
+# films from johnwick to madagascar:
+
+sys.stdout = open("scraping_output_2.txt", "w")
+
+for i in films_2:
+    scrape_film_info(i)
+
+sys.stdout.close()
+
+films_3 = [
+    "https://www.imdb.com/title/tt0416320/",  # matchpoint
+    "https://www.imdb.com/title/tt2179136/",  # americansniper
+    "https://www.imdb.com/title/tt0245429/",  # spiritedaway
+    "https://www.imdb.com/title/tt2381941/",  # focus
+    "https://www.imdb.com/title/tt0416449/",  # 300
+    "https://www.imdb.com/title/tt1119646/",  # hangover
+    "https://www.imdb.com/title/tt0145487/",  # spiderman
+    "https://www.imdb.com/title/tt0808279/",  # funnygames
+    "https://www.imdb.com/title/tt0335266/",  # lostintransl
+    "https://www.imdb.com/title/tt1156398/",  # zombieland
+    "https://www.imdb.com/title/tt0499549/",  # avatar
+    "https://www.imdb.com/title/tt0371746/",  # ironman
+    "https://www.imdb.com/title/tt0306047/",  # scarymovie
+    "https://www.imdb.com/title/tt0169547/",  # americanbeauty
+    "https://www.imdb.com/title/tt7131622/",  # onceupon
+    "https://www.imdb.com/title/tt1386697/",  # suicidesquad
+    "https://www.imdb.com/title/tt0120663/",  # eyeswideshut
+    "https://www.imdb.com/title/tt8579674/",  # 1917
+    "https://www.imdb.com/title/tt1099212/",  # twilight
+    "https://www.imdb.com/title/tt1700841/",  # sausageparty
+    "https://www.imdb.com/title/tt2562232/"   # birdman
+]
+
+# films from matchpoint to birdman:
+
+sys.stdout = open("scraping_output_3.txt", "w")
+
+for i in films_3:
     scrape_film_info(i)
 
 sys.stdout.close()

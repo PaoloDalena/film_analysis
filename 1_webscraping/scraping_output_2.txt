@@ -1,0 +1,250 @@
+1aTITLE ->  John Wick (2014) 
+director :  Chad Stahelski
+year :  2014
+country :  USA
+rating :  74
+genre1 :  action
+genre2 :  crime
+budget :  20
+boxoffice :  86
+
+TITLE ->  I Love Radio Rock (2009) 
+director :  Richard Curtis
+year :  2009
+country :  UK
+rating :  74
+genre1 :  comedy
+genre2 :  drama
+budget :  50
+boxoffice :  36
+
+TITLE ->  Inside Out (2015) 
+director :  Pete Docter
+year :  2015
+country :  USA
+rating :  81
+genre1 :  animation
+genre2 :  adventure
+budget :  175
+boxoffice :  858
+
+TITLE ->  21 (2008) 
+director :  Robert Luketic
+year :  2008
+country :  USA
+rating :  68
+genre1 :  crime
+genre2 :  drama
+budget :  35
+boxoffice :  159
+
+TITLE ->  Io sono leggenda (2007) 
+director :  Francis Lawrence
+year :  2007
+country :  USA
+rating :  72
+genre1 :  action
+genre2 :  adventure
+budget :  150
+boxoffice :  585
+
+TITLE ->  La grande scommessa (2015) 
+director :  Adam McKay
+year :  2015
+country :  USA
+rating :  78
+genre1 :  biography
+genre2 :  comedy
+budget :  28
+boxoffice :  133
+
+TITLE ->  Jackass: Il film (2002) 
+director :  Jeff Tremaine
+year :  2002
+country :  USA
+rating :  66
+genre1 :  documentary
+genre2 :  action
+budget :  5
+boxoffice :  79
+
+TITLE ->  Ted (2012) 
+director :  Seth MacFarlane
+year :  2012
+country :  USA
+rating :  69
+genre1 :  comedy
+genre1 :  comedy
+budget :  50
+boxoffice :  549
+
+TITLE ->  Harry Potter e il calice di fuoco (2005) 
+director :  Mike Newell
+year :  2005
+country :  UK
+rating :  77
+genre1 :  adventure
+genre2 :  family
+budget :  150
+boxoffice :  896
+
+TITLE ->  Il dittatore (2012) 
+director :  Larry Charles
+year :  2012
+country :  USA
+rating :  64
+genre1 :  comedy
+genre1 :  comedy
+budget :  65
+boxoffice :  179
+
+TITLE ->  Next (2007) 
+director :  Lee Tamahori
+year :  2007
+country :  USA
+rating :  62
+genre1 :  action
+genre2 :  sci-fi
+budget :  70
+boxoffice :  77
+
+TITLE ->  Cambia la tua vita con un click (2006) 
+director :  Frank Coraci
+year :  2006
+country :  USA
+rating :  64
+genre1 :  comedy
+genre2 :  drama
+budget :  82
+boxoffice :  240
+
+TITLE ->  Il curioso caso di Benjamin Button (2008) 
+director :  David Fincher
+year :  2008
+country :  USA
+rating :  78
+genre1 :  drama
+genre2 :  fantasy
+budget :  150
+boxoffice :  335
+
+TITLE ->  Il mistero dei Templari (2004) 
+director :  Jon Turteltaub
+year :  2004
+country :  USA
+rating :  69
+genre1 :  action
+genre2 :  adventure
+budget :  100
+boxoffice :  347
+
+TITLE ->  Profumo - Storia di un assassino (2006) 
+director :  Tom Tykwer
+year :  2006
+country :  Germany
+rating :  75
+genre1 :  crime
+genre2 :  drama
+budget :  60
+boxoffice :  135
+
+TITLE ->  Joker (2019) 
+director :  Todd Phillips
+year :  2019
+country :  USA
+rating :  85
+genre1 :  crime
+genre2 :  drama
+budget :  55
+boxoffice :  1074
+
+TITLE ->  Inside Man (2006) 
+director :  Spike Lee
+year :  2006
+country :  USA
+rating :  76
+genre1 :  crime
+genre2 :  drama
+budget :  45
+boxoffice :  186
+
+TITLE ->  Collateral Beauty (2016) 
+director :  David Frankel
+year :  2016
+country :  USA
+rating :  68
+genre1 :  drama
+genre2 :  romance
+budget :  36
+boxoffice :  88
+
+TITLE ->  Hitch - Lui sì che capisce le donne (2005) 
+director :  Andy Tennant
+year :  2005
+country :  USA
+rating :  66
+genre1 :  comedy
+genre2 :  romance
+budget :  70
+boxoffice :  371
+
+TITLE ->  Mr. Nobody (2009) 
+director :  Jaco Van Dormael
+year :  2009
+country :  Belgium
+rating :  78
+genre1 :  drama
+genre2 :  fantasy
+budget :  47
+boxoffice :  3
+
+TITLE ->  The Millionaire (2008) 
+director :  Danny Boyle
+year :  2008
+country :  UK
+rating :  80
+genre1 :  drama
+genre2 :  romance
+budget :  15
+boxoffice :  378
+
+TITLE ->  I sogni segreti di Walter Mitty (2013) 
+director :  Ben Stiller
+year :  2013
+country :  USA
+rating :  73
+genre1 :  comedy
+genre2 :  drama
+budget :  90
+boxoffice :  188
+
+TITLE ->  Hercules (1997) 
+director :  Ron Clements
+year :  1997
+country :  USA
+rating :  73
+genre1 :  animation
+genre2 :  adventure
+budget :  85
+boxoffice :  252
+
+TITLE ->  Baby Driver - Il genio della fuga (2017) 
+director :  Edgar Wright
+year :  2017
+country :  UK
+rating :  76
+genre1 :  action
+genre2 :  crime
+budget :  34
+boxoffice :  226
+
+TITLE ->  Madagascar (2005) 
+director :  Eric Darnell
+year :  2005
+country :  USA
+rating :  69
+genre1 :  animation
+genre2 :  adventure
+budget :  75
+boxoffice :  542
+
