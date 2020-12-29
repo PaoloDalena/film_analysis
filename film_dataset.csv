@@ -1,0 +1,101 @@
+﻿title;score;director;year;country;imdb_score;genre_1;genre_2;budget_mln$;boxoffice_mln$;profit_ratio;marcello_score;diff_marcello;d_DiCaprio;d_Bale;d_Pitt;d_Damon;cum_actors;d_frombook;d_truestory;d_rewatched;where
+The truman show;96;Weir;1998;USA;81;comedy;drama;60;264;4,40;84;12;0;0;0;0;0;0;0;1;streaming
+The prestige;95;Nolan;2006;UK;85;drama;mystery;40;110;2,75;87;8;0;1;0;0;1;1;0;1;streaming
+Inglorious basterds;94;Tarantino;2009;USA;83;drama;war;70;321;4,59;85;9;0;0;1;0;1;0;0;1;cinema
+The departed;94;Scorsese;2006;USA;85;crime;drama;90;291;3,23;83;11;1;0;0;1;2;0;0;0;streaming
+Forrest gump;93;Zemeckis;1994;USA;88;drama;romance;55;678;12,33;78;15;0;0;0;0;0;1;0;1;tv
+Fight club;90;Fincher;1999;USA;88;drama;thriller;63;101;1,60;82;8;0;0;1;0;1;1;0;1;streaming
+Django unchained;89;Tarantino;2012;USA;84;drama;western;100;425;4,25;78;11;1;0;0;0;1;1;0;1;cinema
+Interstellar;88;Nolan;2014;USA;86;drama;sci-fi;165;702;4,25;82;6;0;0;0;1;1;0;0;0;cinema
+The dark knight;87;Nolan;2008;USA;90;action;drama;185;1006;5,44;87;0;0;1;0;0;1;1;0;1;tv
+Shutter island;86;Scorsese;2010;USA;82;mystery;thriller;80;295;3,69;89;-3;1;0;0;0;1;1;0;0;streaming
+Inception;85;Nolan;2010;USA;88;action;sci-fi;170;837;4,92;83;2;1;0;0;0;1;0;0;0;streaming
+Tenet;85;Nolan;2020;UK;76;action;sci-fi;205;362;1,77;71;14;0;0;0;0;0;0;0;0;cinema
+Smetto quando voglio;84;Sibilia;2014;ITA;70;comedy;crime;2;6;3,00;82;2;0;0;0;0;0;0;0;0;cinema
+Deadpool;84;Miller;2016;USA;80;action;comedy;58;783;13,50;75;9;0;0;0;0;0;1;0;1;cinema
+Perfetti sconosciuti;84;Genovese;2016;ITA;78;comedy;drama;1;31;31,00;78;6;0;0;0;0;0;0;0;0;cinema
+Sempre meglio che lavorare;84;Vecchi;2016;ITA;58;comedy;comedy;0,1;0,5;5,00;64;20;0;0;0;0;0;0;0;1;cinema
+The shawshank redemption;83;Darabont;1994;USA;93;drama;drama;25;29;1,16;90;-7;0;0;0;0;0;1;0;0;tv
+The theory of everything;83;Marsch;2014;UK;77;biography;drama;15;124;8,27;NA;NA;0;0;0;0;0;1;1;0;cinema
+No country for old men;83;Coen_bros;2007;USA;81;crime;drama;25;172;6,88;86;-3;0;0;0;0;0;1;0;0;streaming
+Catch me if you can;82;Spielberg;2002;USA;81;biography;crime;52;352;6,77;NA;NA;1;0;0;0;1;1;1;1;streaming
+Gone girl;81;Fincher;2014;USA;81;drama;mystery;61;369;6,05;82;-1;0;0;0;0;0;1;0;0;streaming
+Snatch;81;Ritchie;2000;UK;83;comedy;crime;8;84;10,50;90;-9;0;0;1;0;1;0;0;1;streaming
+The social network;81;Fincher;2010;USA;77;biography;drama;40;225;5,63;76;5;0;0;0;0;0;1;1;0;cinema
+Bruce almighty;80;Shadyac;2003;USA;68;comedy;fantasy;81;485;5,99;72;8;0;0;0;0;0;0;0;1;tv
+The imitation game;80;Tyldum;2014;UK;80;biography;drama;14;234;16,71;82;-2;0;0;0;0;0;1;1;0;cinema
+Tolo tolo;80;Zalone;2020;ITA;58;comedy;family;20;52;2,60;70;10;0;0;0;0;0;0;0;0;cinema
+La grande bellezza;80;Sorrentino;2013;ITA;78;drama;drama;9;25;2,78;86;-6;0;0;0;0;0;0;0;1;cinema
+Good will hunting;80;Van_sant;1997;USA;83;drama;romance;10;225;22,50;78;2;0;0;0;1;0;0;0;0;streaming
+The big lebownski;80;Coen_bros;1998;USA;81;comedy;crime;15;46;3,07;94;-14;0;0;0;0;0;0;0;0;streaming
+The wolf of wall street;80;Scorsese;2013;USA;82;biography;crime;100;392;3,92;86;-6;1;0;0;0;1;1;1;0;streaming
+Limitless;79;Burger;2011;USA;74;sci-fi;thriller;27;161;5,96;72;7;0;0;0;0;0;1;0;0;tv
+Blackkklansman;79;Lee;2018;USA;75;biography;comedy;15;93;6,20;82;-3;0;0;0;0;0;1;0;0;tv
+A beautiful mind;79;Howard;2001;USA;82;biography;drama;58;316;5,45;77;2;0;0;0;0;0;1;1;0;streaming
+Il capitale umano;79;Virzi;2013;ITA;73;crime;drama;6;9;1,50;NA;NA;0;0;0;0;0;1;0;0;streaming
+Requiem for a dream;79;Aronofsky;2000;USA;83;drama;drama;4;7;1,75;82;-3;0;0;0;0;0;1;0;0;streaming
+Three billboards outside Ebbing;79;McDonagh;2017;UK;82;comedy;crime;15;160;10,67;NA;NA;0;0;0;0;0;1;0;0;cinema
+Trainspotting;79;Boyle;1996;UK;81;drama;drama;1;16;16,00;93;-14;0;0;0;0;0;1;0;0;streaming
+V for vendetta;79;McTeigue;2005;USA;82;action;drama;54;132;2,44;78;1;0;0;0;0;0;1;0;1;tv
+Being john malkovic;79;Jonze;1999;USA;77;comedy;drama;13;23;1,77;82;-3;0;0;0;0;0;0;0;1;streaming
+Grand budapest hotel;79;Anderson;2014;GER;81;adventure;comedy;25;172;6,88;86;-7;0;0;0;0;0;0;0;0;cinema
+Yes man;78;Reed;2008;USA;68;comedy;romance;70;223;3,19;70;8;0;0;0;0;0;0;1;1;tv
+Now you see me;78;Leterrier;2013;USA;73;crime;mystery;75;351;4,68;NA;NA;0;0;0;0;0;0;0;0;streaming
+Matrix;78;Wachowski_bros;1999;USA;87;action;sci-fi;63;466;7,40;88;-10;0;0;0;0;0;0;0;1;tv
+Dinner for schmucks;78;Roach;2010;USA;59;comedy;comedy;69;86;1,25;87;-9;0;0;0;0;0;0;0;0;streaming
+Intouchables;77;Nakache;2011;FRA;85;biography;comedy;10;426;42,60;78;-1;0;0;0;0;0;0;0;0;tv
+La vita è bella;77;Benigni;1997;ITA;86;comedy;drama;20;230;11,50;75;2;0;0;0;0;0;0;0;1;tv
+Man in black;76;Sonnenfeld;1997;USA;73;action;adventure;90;589;6,54;77;-1;0;0;0;0;0;1;0;1;tv
+Death race;76;WS_Anderson;2008;USA;64;action;sci-fi;45;76;1,69;NA;NA;0;0;0;0;0;0;0;1;tv
+Kill bill vol.1;76;Tarantino;2003;USA;81;action;crime;30;181;6,03;87;-11;0;0;0;0;0;0;0;0;streaming
+L'incredibile storia dell'isola delle rose;74;Sibilia;2020;ITA;70;adventure;comedy;0;0;0,00;73;1;0;0;1;0;1;0;1;0;streaming
+Zodiac;74;Fincher;2007;USA;77;crime;drama;65;85;1,31;83;-9;0;0;0;0;0;1;1;0;streaming
+Donnie Darko;73;Kelly;2001;USA;80;drama;mystery;6;7;1,17;78;-5;0;0;0;0;0;0;0;1;tv
+John wick 1;73;Stahelski;2014;USA;74;action;crime;20;86;4,30;88;-15;0;0;0;0;0;0;0;0;streaming
+The boat that rocked;73;Curtis;2009;UK;74;comedy;drama;50;36;0,72;NA;NA;0;0;0;0;0;0;0;0;tv
+Inside out;73;Docter;2015;USA;81;animation;adventure;175;858;4,90;84;-11;0;0;0;0;0;0;0;0;streaming
+The great hack;72;Amer;2019;USA;;documentary;biography;0;0;0,00;NA;NA;0;0;0;0;0;0;1;0;streaming
+21;72;Luketic;2008;USA;68;crime;drama;35;159;4,54;NA;NA;0;0;0;0;0;0;0;1;tv
+I am legend;72;Lawrence;2007;USA;72;action;adventure;150;585;3,90;73;-1;0;0;0;0;0;1;0;1;cinema
+The big short;72;McKay;2015;USA;78;biography;comedy;28;133;4,75;NA;NA;0;1;1;0;2;1;0;0;streaming
+Jackass;72;Tremaine;2002;USA;66;documentary;action;5;79;15,80;NA;NA;0;0;0;0;0;0;1;1;streaming
+Ted;72;MacFarlane;2012;USA;69;comedy;comedy;50;549;10,98;66;6;0;0;0;0;0;0;0;1;streaming
+Harry potter and the goblet of fire;71;Newell;2005;UK;77;adventure;family;150;896;5,97;68;3;0;0;0;0;0;1;0;1;tv
+The dictator;71;Charles;2012;USA;64;comedy;comedy;65;179;2,75;71;0;0;0;0;0;0;1;0;1;streaming
+Next;71;Tamahori;2007;USA;62;action;sci-fi;70;77;1,10;NA;NA;0;0;0;0;0;1;0;1;tv
+Click;71;Coraci;2006;USA;64;comedy;drama;82;240;2,93;63;8;0;0;0;0;0;0;0;1;tv
+The curious case of benjamin button;70;Fincher;2008;USA;78;drama;fantasy;150;335;2,23;NA;NA;0;0;0;0;0;1;0;0;tv
+National treasure;70;Turteltaub;2004;USA;69;action;adventure;100;347;3,47;NA;NA;0;0;0;0;0;0;0;1;tv
+Perfume: the story of a murderer;70;Tykwer;2006;GER;75;crime;drama;60;135;2,25;79;-9;0;0;0;0;0;1;0;1;tv
+Joker;70;Phillips;2019;USA;85;crime;drama;55;1074;19,53;81;-11;0;0;0;0;0;1;0;0;cinema
+Basilicata coast to coast;69;Papaleo;2010;ITA;66;comedy;musical;1;4;4,00;68;1;0;0;0;0;0;0;0;0;tv
+Inside man;68;Lee;2006;USA;76;crime;drama;45;186;4,13;NA;NA;0;0;0;0;0;0;0;0;streaming
+Collateral beauty;68;Frankel;2016;USA;68;drama;romance;36;88;2,44;NA;NA;0;0;0;0;0;0;0;0;streaming
+Hitch;66;Tennant;2005;USA;66;comedy;romance;70;371;5,30;60;6;0;0;0;0;0;0;0;1;tv
+Mr. Nobody;66;Van_dormael;2009;BEL;78;drama;fantasy;47;4;0,09;87;-21;0;0;0;0;0;0;0;0;streaming
+The millionaire;66;Boyle;2008;UK;80;drama;romance;15;378;25,20;71;-5;0;0;0;0;0;1;0;1;cinema
+The secret life of walter mitty;64;Stiller;2013;USA;73;comedy;drama;90;188;2,09;78;-14;0;0;0;0;0;1;0;0;streaming
+Hercules;63;Clements;1997;USA;73;animation;adventure;85;252;2,96;76;-13;0;0;0;0;0;0;0;1;tv
+Baby driver;63;Wright;2017;UK;76;action;crime;34;226;6,65;77;-14;0;0;0;0;0;0;0;0;streaming
+Madagascar;62;Darnell;2005;USA;69;animation;adventure;75;542;7,23;68;-6;0;0;0;0;0;0;0;1;tv
+Match point;62;Allen;2005;UK;76;drama;romance;15;85;5,67;78;-16;0;0;0;0;0;0;0;0;streaming
+American sniper;61;Eastwood;2014;USA;73;action;biography;58;547;9,43;68;-7;0;0;0;0;0;1;1;0;cinema
+Spirited away;60;Miyazaki;2001;JAP;86;animation;adventure;19;355;18,68;82;-22;0;0;0;0;0;1;0;0;streaming
+Focus;60;Ficarra;2015;USA;66;comedy;crime;50;158;3,16;63;-3;0;0;0;0;0;0;0;0;streaming
+300;60;Snyder;2006;USA;76;action;drama;65;456;7,02;74;-14;0;0;0;0;0;1;1;1;tv
+The hangover;58;Phillips;2009;USA;77;comedy;comedy;35;469;13,40;75;-17;0;0;0;0;0;0;0;1;tv
+Spider-man;58;Raimi;2002;USA;73;action;adventure;139;825;5,94;77;-19;0;0;0;0;0;1;0;1;tv
+Funny games;57;Haneke;2007;USA;66;crime;drama;15;7;0,47;74;-17;0;0;0;0;0;0;0;0;tv
+Lost in translation;56;Coppola_sofia;2003;USA;77;comedy;drama;4;118;29,50;76;-20;0;0;0;0;0;0;0;0;streaming
+Zombieland;56;Fleischer;2009;USA;76;adventure;comedy;23;102;4,43;78;-22;0;0;0;0;0;0;0;0;streaming
+Avatar;55;Cameron;2009;USA;78;action;adventure;237;2790;11,77;80;-25;0;0;0;0;0;0;0;0;cinema
+Iron man;55;Favreau;2008;USA;79;action;adventure;140;585;4,18;75;-20;0;0;0;0;0;1;0;1;tv
+Scary movie 3;53;Zucker;2003;USA;55;comedy;horror;48;220;4,58;46;7;0;0;0;0;0;0;0;1;tv
+American beauty;49;Mendes;1999;USA;83;drama;drama;15;356;23,73;88;-39;0;0;0;0;0;0;0;0;streaming
+Once upon a time in hollywood;44;Tarantino;2019;USA;76;comedy;drama;90;374;4,16;82;-38;1;0;1;0;2;0;0;0;streaming
+Suicide squad;40;Ayer;2016;USA;60;action;adventure;175;746;4,26;42;-2;0;0;0;0;0;1;0;0;cinema
+Eyes wide shut;39;Kubrick;1999;UK;74;drama;mystery;65;162;2,49;90;-51;0;0;0;0;0;1;0;0;streaming
+1917;37;Mendes;2019;USA;83;drama;thriller;95;385;4,05;85;-48;0;0;0;0;0;0;0;0;streaming
+Twilight;36;Hardwicke;2008;USA;52;drama;fantasy;37;408;11,03;56;-20;0;0;0;0;0;1;0;0;tv
+Sausage party;30;Tiernan;2016;USA;61;animation;adventure;19;140;7,37;46;-16;0;0;0;0;0;0;0;0;streaming
+Birdman;25;Inarritu;2014;USA;77;comedy;drama;18;103;5,72;87;-62;0;0;0;0;0;0;0;0;cinema
