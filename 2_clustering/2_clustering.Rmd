@@ -1,8 +1,8 @@
 ---
-title: "2_clustering"
+title: "2 - Clustering"
 author: "Paolo Dalena"
 date: "12/31/2020"
-output: html_document
+output: pdf_document
 ---
 
 ```{r setup, include=FALSE}
@@ -92,7 +92,7 @@ ggscatter(tbb,
 
 And now let's plot the clustering on the first three principal components:
 
-```{r, message=FALSE, warning=FALSE}
+```{r, eval=F}
 plot_ly(
   x = s_pc$scores[, 1],
   y = s_pc$scores[, 2],
@@ -102,5 +102,8 @@ plot_ly(
   color = as.factor(km2$cluster)
 )
 ```
+```{r, out.width="1\\linewidth", include=TRUE, fig.align="center", echo=FALSE}
+knitr::include_graphics("./kmeans_3d.png")
+```
 
-*Note that the previous plot is interactive in the html file, so you can move the axes as you want.*
+*Note that the previous plot is interactive in a html file, so you can move the axes and inspect the points as you want.*
