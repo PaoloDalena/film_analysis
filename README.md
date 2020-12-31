@@ -6,8 +6,8 @@
 **`Everything here is under development, so it may change over time. You
 are not looking at the final version of this project.`**
 
-In this *repository* there will be stored all the material related to
-the analysis of (my) tastes on films. According to my current plans,
+In this repository there will be stored all the material related to the
+analysis of *(my)* tastes on films. According to my current plans,
 different working methods will be addressed. My ultimate goal is to
 practice, have fun, and maybe draw some interesting conclusions.
 
@@ -22,13 +22,13 @@ the obtained results.
 
   - **`1 - Web Scraping with Python`**: how the dataset has been built.
 
-  - **`2 - Variable selection and dimension reduction with R`**: best
+  - **`2 - Cluster analysis with R`**: k-means, hierarchical clustering,
+    PAM, mixture models, robust clustering methods and others.
+
+  - **`3 - Variable selection and dimension reduction with R`**: best
     subset selection, forward selection, backward elimination, Lasso,
     principal components regresion, partial least squares regression,
     index construction and others.
-
-  - **`3 - Cluster analysis with R`**: k-means, hierarchical clustering,
-    PAM, mixture models and others.
 
   - **`4 - Comparison of the results and final considerations`**.
 
